@@ -1,5 +1,5 @@
 # UrinaryDiseaseTracker
-Diagnoses urinary conditions based on the colot of the urinie sample
+Diagnoses urinary conditions based on the color of the urine sample.
 Used OpenCV library to detect the color of urine and diaganoses the condition based on the detected color 
 
 
